@@ -1,4 +1,11 @@
-### Hi there 👋
+# Will Neville - @dubnev [he/him]
+
+Hello, I'm Will! Anything public facing here will probably be tangential to Emacs or videogames (speedrunning specifically).
+
+## Get in touch
+- Website: https://dubnev.com
+- Twitter: https://twitter.com/dub_nev
+- Twitch: ask me.
 
 <!--
 **dubnev/dubnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
