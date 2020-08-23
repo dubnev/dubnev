@@ -3,8 +3,8 @@
 Hello, I'm Will! Anything public facing here will probably be tangential to Emacs or videogames (speedrunning specifically).
 
 ## Get in touch
-- Website: https://wneville.com
-- Twitter: https://twitter.com/wneville_
+- Website: [https://wneville.com](https://wneville.com)
+- Twitter: [https://twitter.com/wneville_](https://twitter.com/wneville_)
 - Twitch: ask me.
 
 <!--
