@@ -1,10 +1,10 @@
-# Will Neville - @dubnev [he/him]
+# Will Neville - @wneville [he/him]
 
 Hello, I'm Will! Anything public facing here will probably be tangential to Emacs or videogames (speedrunning specifically).
 
 ## Get in touch
-- Website: https://dubnev.com
-- Twitter: https://twitter.com/dub_nev
+- Website: https://wneville.com
+- Twitter: https://twitter.com/wneville_
 - Twitch: ask me.
 
 <!--
