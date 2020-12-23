@@ -1,6 +1,6 @@
 # Will Neville - @wneville [he/him]
 
-Hello, I'm Will! Anything public facing here will probably be tangential to Emacs or videogames (speedrunning specifically).
+Hello, I'm Will!
 
 ## Get in touch
 - Website: [https://wneville.com](https://wneville.com)
