@@ -1,11 +1,6 @@
-# Will Neville - @wneville [he/him]
+# Will Neville - @willnevillain [he/him]
 
 Hello, I'm Will!
-
-## Get in touch
-- Website: [https://wneville.com](https://wneville.com)
-- Twitter: [https://twitter.com/wneville_](https://twitter.com/wneville_)
-- Twitch: ask me.
 
 <!--
 **dubnev/dubnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
