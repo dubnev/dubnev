@@ -2,7 +2,7 @@
 
 Hello, I'm Will!
 
-Currently using a Keebio Iris Rev. 4 as my keyboard daily driver. You can find see my layout here: https://github.com/willnevillain/qmk_firmware/blob/master/keyboards/keebio/iris/keymaps/willnevillain/keymap.c
+Currently using a Keebio Iris Rev. 4 as my keyboard daily driver. You can find my layout [here](https://github.com/willnevillain/qmk_firmware/blob/master/keyboards/keebio/iris/keymaps/willnevillain/keymap.c)!
 
 <!--
 **dubnev/dubnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
